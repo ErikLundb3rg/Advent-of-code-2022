@@ -5,7 +5,6 @@ def getLines(fileName):
 def main():
   lines = getLines('input.in')
   
-  
   cals = []
   sm = 0 
   
@@ -16,14 +15,8 @@ def main():
       continue
     
     sm += int(line) 
-  
     
   print(max(cals))
-    
-    
-    
-  
-  
   
 if __name__ == '__main__':
   main()

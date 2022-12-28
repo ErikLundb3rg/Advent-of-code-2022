@@ -1,7 +1,6 @@
 import os 
 
 def main():
-  
   print("Creating directories...") 
   for day in range(1, 25):
     os.mkdir(f'day{day}')
