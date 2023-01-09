@@ -102,7 +102,7 @@ def main():
     changed = elfsPosChanged(previousElfs, elfs)
     rnd += 1
     
-  print(rnd)
+  print(rnd-1)
      
 if __name__ == '__main__':
   main()
