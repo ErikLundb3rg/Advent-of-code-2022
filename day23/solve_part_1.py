@@ -71,7 +71,6 @@ def main():
   global grid 
   grid = lines
   
-  
   deltaDirections = [
     [(-1, -1), (0, -1), (1, -1)],
     [(-1, 1), (0, 1), (1, 1)],

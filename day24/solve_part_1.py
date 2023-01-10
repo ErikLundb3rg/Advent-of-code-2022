@@ -106,7 +106,6 @@ def main():
   finish = (len(grid[0])-2, len(grid)-1)
  
   print(simulate(start, finish, blizzards))
-  print('done')
     
 if __name__ == '__main__':
   main()
