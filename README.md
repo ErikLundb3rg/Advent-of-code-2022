@@ -1,2 +1,3 @@
 # Advent-of-code-2022
-Advent of code solutions, ~suboptimal. 
+These are my solutions for the 2022 Advent of Code challenge: https://adventofcode.com/. 
+50/50  
